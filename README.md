@@ -1,2 +1,2 @@
-# SunwayPython
+# These are notes
 Notes
