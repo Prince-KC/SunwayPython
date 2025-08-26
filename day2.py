@@ -26,3 +26,5 @@ Operator Precedence
 print(True and True and not True or False or not False and True)
 
 """
+
+print(5 + 4 - 7 + 3)
